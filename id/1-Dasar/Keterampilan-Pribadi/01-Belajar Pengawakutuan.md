@@ -7,3 +7,6 @@ Orang yang pikir desain, beberan, teori komplexitas dan yang lain seperti itu le
 Pengawakutuan adalah tentang bermain program, bukan program *sendirian*. Kalau anda belih hal-hal dari *perusahaan perangkat lunak*, biasanya tidak bisah lihat kode. Tetapi *masih ada* lokasi dalam program dimana apa dokumentasi bilang akan *dilakukan* beda dari pada apa yang sebenarnya dilakukan (contoh adalah *komputer crash*), atau dimana tidak ada dokumentasi. Sering, anda membuat error, lihat kode yang ditulis, dan tidak tahu bagaiman error itu terjadi. *Pasti* ada asumsi yang tidak benar atau kondisi yang tidak *diperhitungkan*. Terkadang, melihat kode untuk lama perbaikan itu. Kapan itu tidak melakukan, anda harus *mendebug*.
 
 Untuk lihat ke dalam pelaksanaan program, anda harus mampu bermain kode dan mengamati sesuatu tentang itu. Terkadang *pengamatan terlihat* kalau ada di layar komputer, atau bisa mencatat penundaan antara dua peristiwa. Atau mungkin pengamatan tidak dimaksudkan terlihat, seperti keadaan variabel di dalam kode, baris yang mana dieksekusi, atau kalau pernyataan tertentu adalah benar dengan struktur data rumit. Hal-hal ini harus diungkap.
+
+
+Berikutnya [Pengawakutuan Dengan Membuat Masalah Lebih Kecil](02-Pengawakutuan Dengan Membuat Masalah Lebih Kecil.md)
